@@ -1,7 +1,7 @@
 <resources>
   <string name="app_name">Target Practice</string>
-  <string name="viking">AlienAnimal</string>
-  <string name="cannon">Mark42</string>
+  <string name="viking">Viking</string>
+  <string name="cannon">Cannon</string>
   <string name="target">Target</string>
   <string name="camera_permission_toast">Camera permission is needed to run this application</string>
   <string name="searching_for_surfaces">Searching for surfaces...</string>
@@ -18,11 +18,11 @@
   <string name="model_cannon_png">models/cannon.png</string>
   <string name="model_cannon_obj">models/cannon.obj</string>
   <string name="model_viking_obj">models/viking.obj</string>
-  <string name="model_viking_png">models/viking.jpg</string>
+  <string name="model_viking_png">models/viking.png</string>
   <string name="model_target_obj">models/target.obj</string>
-  <string name="model_target_png">models/target.jpg</string>
-<!--  <string name="model_viking_png">models/Mark42.png</string>-->
-<!--  <string name="model_viking_obj">models/Mark42.obj</string>-->
+  <string name="model_target_png">models/target.png</string>
+  <!--<string name="model_viking_png">models/Mark42.png</string>-->
+  <!--<string name="model_viking_obj">models/Mark42.obj</string>-->
 <!--  <string name="model_cannon_obj">models/Katarina.obj</string>-->
 <!--  <string name="model_cannon_png">models/Katarina.png</string>-->
   <string name="failed_to_read_asset">Failed to read an asset file</string>
